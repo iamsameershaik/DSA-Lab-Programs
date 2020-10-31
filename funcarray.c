@@ -6,7 +6,7 @@ int a[7];
 int final=7;
 int n=0;
 int count=0;
- 
+  
 //Defining the functions.
 void chnglb()
 {
